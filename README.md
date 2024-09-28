@@ -10,7 +10,7 @@ $ npm install donation-client
 
 ## Before use
 
-**이 프로젝트는 Chzzk 또는 AfreecaTV에 의해 승인, 허락되지 않았습니다.**
+**이 프로젝트는 Chzzk 또는 AfreecaTV에 의해 승인, 허락되지 않았습니다.**  
 이 프로젝트 혹은 라이브러리를 사용함으로써 발생하는 모든 문제는 본인의 책임입니다.
 
 ## Usage
