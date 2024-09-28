@@ -1,0 +1,23 @@
+{
+  "name": "donation-client",
+  "version": "1.0.0",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "keywords": [
+    "chzzk",
+    "afreecatv",
+    "donation"
+  ],
+  "author": "remuring9999",
+  "license": "MIT",
+  "description": "Chzzk / AfreecaTV 후원 연동 라이브러리",
+  "dependencies": {
+    "typescript": "^5.6.2",
+    "ws": "^8.18.0"
+  },
+  "devDependencies": {
+    "@types/ws": "^8.5.12"
+  }
+}
